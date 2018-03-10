@@ -2,7 +2,10 @@ Download Jenkins from https://jenkins.io/
 Extract the package and run .msi file.
 Open the blew link in browser
 http://localhost:8080
-It will ask for the user name and password.
+Please wait till it displays the password path.
 Go to /programfiles/jenkins/secerets/initialadminpassword
+Once path is showed copy the password from the file and back to browser and paste it.
+click apply and save.
+choose manage plugins
 Skip the plugins install and close
-create admin user name and password.
+choose admin user configuration and change the admin password.
